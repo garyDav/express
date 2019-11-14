@@ -1,0 +1,6 @@
+sudo npm i express-generator -g
+express --view=pug express-app-gen
+
+seguir pasos
+
+touch .gitignore

@@ -1,0 +1,8 @@
+mkdir 04ecommerce
+cd 04ecommerce
+npm init -y
+npm i -S express
+npm i -D nodemon
+npm i -S pug
+
+npm i -S body-parser

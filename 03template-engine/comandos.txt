@@ -1,0 +1,9 @@
+mkdir 03template-engine
+cd 03template-engine
+npm i -S express
+npm i -D nodemon
+touch index.js
+touch .gitignore
+npm init -y
+
+npm run dev

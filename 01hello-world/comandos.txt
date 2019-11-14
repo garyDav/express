@@ -1,0 +1,11 @@
+mkdir express
+cd express
+mkdir 01hello-world
+cd 01hello-world
+npm init -y
+npm i -S express
+touch index.js
+
+npm i -D nodemon
+
+npm run dev
